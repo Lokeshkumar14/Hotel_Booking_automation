@@ -9,6 +9,7 @@ This project contains Selenium test scripts in Java to automate the booking and 
 - Handle success alerts after submission
 - Slow typing simulation
 
+## Website link -https://lokeshkumar14.github.io/Hotel-website/
 ## Requirements
 
 - Java 17+ or Java 21+
@@ -16,5 +17,6 @@ This project contains Selenium test scripts in Java to automate the booking and 
 - Selenium 4.20.0
 
 #Author
+
   -Lokesh kumar 
 
